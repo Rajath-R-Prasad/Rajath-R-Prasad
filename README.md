@@ -4,12 +4,12 @@
 ## 📌 About Me  
 - 🏫 Engineering student at **SJCE Mysuru**  
 - 💻 Passionate about **AI & web development**  
-- 📚 Currently learning **JavaScript, HTML, CSS, and Python**  
+- 📚 Currently learning **React, JavaScript, HTML, CSS, and Python**  
 - 🏆 Working towards becoming a **skilled software developer**  
 
 ## 🔨 Tech Stack  
 - **Languages:** Python, JavaScript, HTML, CSS  
-- **Tools & Frameworks:** Git, Tailwind, Numpy  
+- **Tools & Frameworks:** Git, React, Tailwind, Numpy  
 - **Currently Exploring:** backend and data science concepts
 
 ## 🌟 Projects & Interests  
